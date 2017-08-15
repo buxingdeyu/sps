@@ -1,0 +1,9 @@
+#过滤整个.metadata文件夹
+/.metadata/
+#过滤所有.class文件  
+*.class
+#过滤具体文件
+/Servers/
+/.sonarlint/
+/RemoteSystemsTempFiles/
+/apache-tomcat-7.0.79/
